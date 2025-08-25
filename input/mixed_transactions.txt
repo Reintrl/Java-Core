@@ -1,0 +1,32 @@
+from: 10001-10001
+to: 10001-10002
+amount: 300.00
+
+from: 10001-1000
+to: 10001-10003
+amount: 150.50
+
+from: 10001-10004
+to: 10001-10005
+amount: -75.25
+
+from: 10001-10006
+to: 10001-10007
+amount: 500.00
+
+from: 10001-10008
+to: 10001-10008
+amount: 200.00
+
+from: 10001-10001
+
+
+to: 10001-10002
+
+
+from: 10001-10005
+to: 10001-10006
+amount: 100.00
+additional: field: extra data
+more: fields for testing
+note: Multiple fields
